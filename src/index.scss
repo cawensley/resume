@@ -1,0 +1,42 @@
+$primary: #338f8a !default;
+$secondary: gray !default;
+$font-family-sans-serif: "Lato", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", 'Noto Color Emoji' !default;
+$headings-font-family: "Montserrat", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", 'Noto Color Emoji' !default;
+$headings-font-weight: 700 !default;
+
+@import 'bootstrap/scss/bootstrap.scss';
+
+body {
+  background-color: $primary;
+}
+
+@media (max-width: 767px) {
+  body {
+    font-size: 8px;
+  }
+  h1 {
+    font-size: 25px;
+  }
+  h3 {
+    font-size: 12px;
+  }
+}
+
+.p-padding {
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+  min-height: 100vh;
+
+  @media (max-width: 767px) {
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+  }
+}
+
+.p-hyperlink-color {
+  color: #00b9ff;
+  background-color: transparent;
+  text-decoration-line: underline;
+  font-style: italic;
+  &:hover { color: $secondary; }
+}
