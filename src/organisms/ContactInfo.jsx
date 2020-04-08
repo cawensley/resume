@@ -24,7 +24,7 @@ const ContactInfo = () => (
                     </li><br/>
                     <li>
                         <i className="o-ContactInfo-iconwidth fas fa-envelope"></i>
-                        &nbsp;Email:&nbsp;alex@webdevandmetals.com
+                        &nbsp;Email:&nbsp;alex@wensley.dev
                     </li><br/>
                 </ul>
                 <button className="button btn-secondary mb-4">Download Resume from Google Drive</button>
