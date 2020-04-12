@@ -27,8 +27,13 @@ const ContactInfo = () => (
                         &nbsp;Email:&nbsp;alex@wensley.dev
                     </li><br/>
                 </ul>
-                <button className="button btn-secondary mb-4">Download Resume from Google Drive</button>
-                <ul className="social border border-secondary row px-0 py-2 mx-1">
+                <a  href="https://drive.google.com/file/d/1WOuEbYEf_MwZpesFB6iO-edCiSdyB8dD/edit"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                    className="bg-secondary p-1">
+                    Download Resume from Google Drive
+                </a>
+                <ul className="social border border-secondary row px-0 py-2 mx-1 mt-4">
                     <li className="col-lg-6">
                         <a href="https://github.com/cawensley" rel="noopener noreferrer" target="_blank">
                             <i className="fab fa-github mr-2"></i>
