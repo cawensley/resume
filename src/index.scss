@@ -51,7 +51,7 @@ ul.social li {
 }
 
 .o-ContactInfo-iconwidth {
-  min-width: 1rem;
+  min-width: 1.2rem;
 }
 
 .o-ContactInfo-transparentBackground {
@@ -71,6 +71,11 @@ ul.social li {
   border-top: .2rem solid #666b71;
 }
 
+.o-ContactInfo-smallFontsize {
+  font-size: 10px;
+  font-style: italic;
+}
+
 .o-SquareProfileImage-imagewidth {
   width: 10rem;
   border-radius: 100%;
@@ -85,9 +90,9 @@ ul.social li {
 }
 
 .o-RectangleProfileImage-cardwidth {
-  max-width: 28vh;
+  max-width: 30vh;
 }
 
 .o-RectangleProfileImage-imageheight {
-  max-height: 50vh;
+  max-height: 60vh;
 }
