@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9205f77a8a5c5d942ad6096d281fee7",
+    "revision": "da4a18da298e392097ffea0bc525f777",
     "url": "/index.html"
   },
   {
-    "revision": "a074513686ecdd066fb5",
-    "url": "/static/css/main.789d177a.chunk.css"
+    "revision": "20dcf001493534d15040",
+    "url": "/static/css/main.cded91cc.chunk.css"
   },
   {
     "revision": "2f6ce68f6fad0825c97e",
@@ -16,12 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.4b81f6d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a074513686ecdd066fb5",
-    "url": "/static/js/main.2d225fcc.chunk.js"
+    "revision": "20dcf001493534d15040",
+    "url": "/static/js/main.a6c4d9ec.chunk.js"
   },
   {
     "revision": "556059dfffe46f8d618e",
     "url": "/static/js/runtime-main.1a86658a.js"
+  },
+  {
+    "revision": "a1e873cbcb7442bfb02bc92af6d126b2",
+    "url": "/static/media/CleanEnergyWebsite.a1e873cb.png"
+  },
+  {
+    "revision": "3062a1f72c98c13c1049b4a4e73da4e1",
+    "url": "/static/media/MovieWebsite.3062a1f7.png"
+  },
+  {
+    "revision": "7978d0ad2b4d14c44565a7cd942b3f17",
+    "url": "/static/media/WarhammerWebsite.7978d0ad.png"
   },
   {
     "revision": "04e877ace23d7892ec90b28aabb49a5c",
