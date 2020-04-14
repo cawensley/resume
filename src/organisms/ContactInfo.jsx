@@ -24,7 +24,10 @@ const ContactInfo = () => (
                     </li><br/>
                     <li>
                         <i className="o-ContactInfo-iconwidth fas fa-envelope"></i>
-                        &nbsp;Email:&nbsp;alex@wensley.dev
+                        &nbsp;Email:&nbsp;
+                        <a href="mailto:alex@wensley.dev">
+                            alex@wensley.dev
+                        </a>
                     </li><br/>
                 </ul>
                 <a  href="https://drive.google.com/uc?export=download&id=1lglRstTxyR3cgPvq90RcZuVOHOiial1D"
